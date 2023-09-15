@@ -6,6 +6,7 @@ public class SimpleRotation : MonoBehaviour
 {
     [SerializeField] private GameObject _target;
     [SerializeField] private float _rotSpeed = 30f;
+    
 
     // Start is called before the first frame update
     void Start()
